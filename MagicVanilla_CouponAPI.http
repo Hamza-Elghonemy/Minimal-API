@@ -1,0 +1,6 @@
+@MagicVanilla_CouponAPI_HostAddress = http://localhost:5114
+
+GET {{MagicVanilla_CouponAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
