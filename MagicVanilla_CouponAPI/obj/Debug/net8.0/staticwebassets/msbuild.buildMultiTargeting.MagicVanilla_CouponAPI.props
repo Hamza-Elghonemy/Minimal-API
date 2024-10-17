@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MagicVanilla_CouponAPI.props" />
+</Project>
